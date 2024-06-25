@@ -1,0 +1,17 @@
+C:\Users\chenxiaoyu\Desktop\Source\小工具\bin\Debug\小工具.exe.config
+C:\Users\chenxiaoyu\Desktop\Source\小工具\bin\Debug\小工具.exe
+C:\Users\chenxiaoyu\Desktop\Source\小工具\bin\Debug\小工具.pdb
+C:\Users\chenxiaoyu\Desktop\Source\小工具\obj\Debug\小工具.csproj.AssemblyReference.cache
+C:\Users\chenxiaoyu\Desktop\Source\小工具\obj\Debug\小工具.Properties.Resources.resources
+C:\Users\chenxiaoyu\Desktop\Source\小工具\obj\Debug\小工具.csproj.GenerateResource.cache
+C:\Users\chenxiaoyu\Desktop\Source\小工具\obj\Debug\小工具.csproj.CoreCompileInputs.cache
+C:\Users\chenxiaoyu\Desktop\Source\小工具\obj\Debug\小工具.exe
+C:\Users\chenxiaoyu\Desktop\Source\小工具\obj\Debug\小工具.pdb
+C:\Users\chenxiaoyu\Desktop\Source\小工具\obj\Debug\小工具.小工具.resources
+C:\Users\chenxiaoyu\Desktop\Source\小工具\bin\Debug\Mono.Nat.dll
+C:\Users\chenxiaoyu\Desktop\Source\小工具\bin\Debug\MonoTorrent.dll
+C:\Users\chenxiaoyu\Desktop\Source\小工具\bin\Debug\ReusableTasks.dll
+C:\Users\chenxiaoyu\Desktop\Source\小工具\bin\Debug\Mono.Nat.xml
+C:\Users\chenxiaoyu\Desktop\Source\小工具\bin\Debug\MonoTorrent.xml
+C:\Users\chenxiaoyu\Desktop\Source\小工具\bin\Debug\ReusableTasks.xml
+C:\Users\chenxiaoyu\Desktop\Source\小工具\obj\Debug\小工具.csproj.Up2Date

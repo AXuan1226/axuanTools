@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chenxiaoyu\\Desktop\\Source\\\u5C0F\u5DE5\u5177\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{278C17DC-DA46-4344-B73A-3291983564D6}|\u5C0F\u5DE5\u5177.csproj|c:\\users\\chenxiaoyu\\desktop\\source\\\u5C0F\u5DE5\u5177\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{278C17DC-DA46-4344-B73A-3291983564D6}|\u5C0F\u5DE5\u5177.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278C17DC-DA46-4344-B73A-3291983564D6}|\u5C0F\u5DE5\u5177.csproj|C:\\Users\\chenxiaoyu\\Desktop\\Source\\\u5C0F\u5DE5\u5177\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{278C17DC-DA46-4344-B73A-3291983564D6}|\u5C0F\u5DE5\u5177.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278C17DC-DA46-4344-B73A-3291983564D6}|\u5C0F\u5DE5\u5177.csproj|C:\\Users\\chenxiaoyu\\Desktop\\Source\\\u5C0F\u5DE5\u5177\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{278C17DC-DA46-4344-B73A-3291983564D6}|\u5C0F\u5DE5\u5177.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\chenxiaoyu\\Desktop\\Source\\\u5C0F\u5DE5\u5177\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\chenxiaoyu\\Desktop\\Source\\\u5C0F\u5DE5\u5177\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAJoBAAAAAAAAAAASwN0BAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:18:15.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\chenxiaoyu\\Desktop\\Source\\\u5C0F\u5DE5\u5177\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\chenxiaoyu\\Desktop\\Source\\\u5C0F\u5DE5\u5177\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAqwL0AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:15:16.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\chenxiaoyu\\Desktop\\Source\\\u5C0F\u5DE5\u5177\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\chenxiaoyu\\Desktop\\Source\\\u5C0F\u5DE5\u5177\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:12:59.842Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

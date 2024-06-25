@@ -1,0 +1,20 @@
+# ninja log v6
+20	207	7410072661183619	C:/Users/chenxiaoyu/Desktop/GitHub/axuanTools/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	83fdd14c07b5e5b6
+235	758	7410072127673120	axuanTools_autogen/timestamp	8966c0dbd219c447
+235	758	7410072127673120	C:/Users/chenxiaoyu/Desktop/GitHub/axuanTools/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/axuanTools_autogen/mocs_compilation.cpp	8966c0dbd219c447
+235	758	7410072127673120	axuanTools_autogen/mocs_compilation.cpp	8966c0dbd219c447
+764	2578	7410072128278149	CMakeFiles/axuanTools.dir/main.cpp.obj	371c32ab20350733
+235	758	7410072127673120	C:/Users/chenxiaoyu/Desktop/GitHub/axuanTools/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/axuanTools_autogen/timestamp	8966c0dbd219c447
+762	2564	7410072128258242	CMakeFiles/axuanTools.dir/axuanTools_autogen/mocs_compilation.cpp.obj	c0594f6f265f807b
+767	2576	7410072128315079	CMakeFiles/axuanTools.dir/mainwindow.cpp.obj	485c192f0d9b845f
+208	1182	7410072671031527	build.ninja	3038d940828b69cc
+13	204	7410072672138240	C:/Users/chenxiaoyu/Desktop/GitHub/axuanTools/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	83fdd14c07b5e5b6
+15	198	7410076784615824	C:/Users/chenxiaoyu/Desktop/GitHub/axuanTools/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	83fdd14c07b5e5b6
+33	245	7410082205890208	C:/Users/chenxiaoyu/Desktop/GitHub/axuanTools/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	83fdd14c07b5e5b6
+38	232	7410086073199195	C:/Users/chenxiaoyu/Desktop/GitHub/axuanTools/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	83fdd14c07b5e5b6
+19	214	7410089751991463	C:/Users/chenxiaoyu/Desktop/GitHub/axuanTools/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	83fdd14c07b5e5b6
+9	187	7410091416832762	C:/Users/chenxiaoyu/Desktop/GitHub/axuanTools/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	83fdd14c07b5e5b6
+20	198	7410091957156354	C:/Users/chenxiaoyu/Desktop/GitHub/axuanTools/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	83fdd14c07b5e5b6
+15	213	7410092163431864	C:/Users/chenxiaoyu/Desktop/GitHub/axuanTools/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	83fdd14c07b5e5b6
+18	198	7410093144634668	C:/Users/chenxiaoyu/Desktop/GitHub/axuanTools/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	83fdd14c07b5e5b6
+10	197	7410096441939443	C:/Users/chenxiaoyu/Desktop/GitHub/axuanTools/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	83fdd14c07b5e5b6

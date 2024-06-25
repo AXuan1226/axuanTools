@@ -42,6 +42,8 @@ endif()
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "C:/Users/chenxiaoyu/Desktop/GitHub/axuanTools/*.cpp")
 set(OLD_GLOB
   "C:/Users/chenxiaoyu/Desktop/GitHub/axuanTools/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/3.29.3/CompilerIdCXX/CMakeCXXCompilerId.cpp"
+  "C:/Users/chenxiaoyu/Desktop/GitHub/axuanTools/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/axuanTools_autogen/EWIEGA46WW/moc_mainwindow.cpp"
+  "C:/Users/chenxiaoyu/Desktop/GitHub/axuanTools/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/axuanTools_autogen/mocs_compilation.cpp"
   "C:/Users/chenxiaoyu/Desktop/GitHub/axuanTools/main.cpp"
   "C:/Users/chenxiaoyu/Desktop/GitHub/axuanTools/mainwindow.cpp"
   )
@@ -62,6 +64,8 @@ endif()
 # _directory_contents at C:/Qt/6.8.0/mingw_64/lib/cmake/Qt6LinguistTools/Qt6LinguistToolsMacros.cmake:55 (file)
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "C:/Users/chenxiaoyu/Desktop/GitHub/axuanTools/*.h")
 set(OLD_GLOB
+  "C:/Users/chenxiaoyu/Desktop/GitHub/axuanTools/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/axuanTools_autogen/include/ui_mainwindow.h"
+  "C:/Users/chenxiaoyu/Desktop/GitHub/axuanTools/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/axuanTools_autogen/moc_predefs.h"
   "C:/Users/chenxiaoyu/Desktop/GitHub/axuanTools/mainwindow.h"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
