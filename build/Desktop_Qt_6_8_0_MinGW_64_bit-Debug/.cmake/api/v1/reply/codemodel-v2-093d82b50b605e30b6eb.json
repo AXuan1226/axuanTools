@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-1eab94d66f608fc7efdd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "axuanTools",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "axuanTools::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-axuanTools-Debug-b940bb6a2f5d06d9029a.json",
+					"name" : "axuanTools",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "axuanTools_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-axuanTools_autogen-Debug-3a9f66226cf606bb4912.json",
+					"name" : "axuanTools_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "axuanTools_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-axuanTools_autogen_timestamp_deps-Debug-6b183f8fea9c8f1313f5.json",
+					"name" : "axuanTools_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/chenxiaoyu/Desktop/GitHub/axuanTools/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/chenxiaoyu/Desktop/GitHub/axuanTools"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
